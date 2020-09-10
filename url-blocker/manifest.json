@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Url-blocker - Production App",
+    "version": "0.0.0.1",
+    "permissions": ["storage", "activeTab", "<all_urls>", "webRequest", "webRequestBlocking", "webNavigation", "*://*.google.com/"],
+    "browser_action":{
+        "default_popup": "index.html"
+    },
+    "background": {
+        "scripts": ["script/script.js"],
+        "persistent": true
+    }
+}
