@@ -22,4 +22,6 @@
 
   ![Screenshot (172)](https://user-images.githubusercontent.com/56539752/92704961-f45f6280-f370-11ea-98fb-3133e4da3714.png)
   
- - Contribute to this code and share yout review     ![1-2-wink-emoji-png-thumb](https://user-images.githubusercontent.com/56539752/92705791-9da65880-f371-11ea-8755-d30780c02308.png)
+ - Contribute to this code and share yout review 
+ 
+  ![1-2-wink-emoji-png-thumb](https://user-images.githubusercontent.com/56539752/92705791-9da65880-f371-11ea-8755-d30780c02308.png)
